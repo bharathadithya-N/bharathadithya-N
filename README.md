@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me n.bharath6305@gmail.com
+- 📫 How to reach me bharathadithya.nakka@gmail.com
 
 <!---
 bharathadithya-N/bharathadithya-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
